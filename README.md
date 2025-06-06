@@ -1,2 +1,2 @@
 # whisky-recs
-ML explorations with whisky data
+A PyTorch-based whisky recommendation system
